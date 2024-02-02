@@ -83,7 +83,6 @@
   font-family: "Assistant", sans-serif;
   font-weight: 700;
   font-size: 64px;
-  line-height: 68px;
   color: #FFFFFF;
 }
 .section1_div .section1_div1 p {
@@ -282,7 +281,6 @@
   font-family: "Assistant", sans-serif;
   font-weight: 700;
   font-size: 64px;
-  line-height: 68px;
   color: #FFFFFF;
   padding: 10px 0;
 }
@@ -347,7 +345,6 @@
   font-family: "Assistant", sans-serif;
   font-weight: 700;
   font-size: 64px;
-  line-height: 68px;
   padding: 10px 0;
   color: #000000;
 }
@@ -401,7 +398,6 @@
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 48px;
-  line-height: 52px;
   padding: 20px 0;
   color: #000000;
 }
@@ -442,7 +438,6 @@
   font-family: "Assistant", sans-serif;
   font-weight: 700;
   font-size: 48px;
-  line-height: 52px;
   color: #FFFFFF;
 }
 .section7_div1 p {
@@ -634,6 +629,7 @@
 
   .section3_div2 input {
     margin-top: 20px;
+    width: 100%;
   }
 
   .section3_div2 button {
@@ -682,5 +678,46 @@
 
   .karta {
     width: 100%;
+  }
+  .head_h1{
+     font-size: 10px;
+  }
+  .section6 h1 {
+    font-size: 25px;
+  }
+  .section7_div1 h1{
+    font-size: 30px;
+  }
+  
+  .section7_div1 h1{
+    width: 100%;
+  }
+
+  .section8 h1{
+    font-size: 40px;
+  }
+
+  .section5_div1 .section5_h2{
+    font-size: 40px;
+  }
+
+  .section4_div1 .section4_h2{
+    font-size: 40px;
+  }
+
+  .section1_div .section1_div1 h1{
+    font-size: 45px;
+  }
+
+  .section7_div4 button{
+    width: 100%;
+  }
+
+  .section7_div2 input{
+    width: 100%;
+  }
+
+  .section10_div2{
+    flex-wrap: wrap;
   }
 }/*# sourceMappingURL=style.css.map */
